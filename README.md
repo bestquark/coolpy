@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="imgs/CoolPy-logo.svg" alt="coolpylogo" width="400"/>
+    <img src="imgs/CoolPy-logo.svg" alt="coolpylogo" width="800"/>
 </p>
 
 Welcome to the [CoolPy](https://www.tiktok.com/@pythonrepos) repository. Here, you can find the short scripts of all the scripts used in the channel. 
