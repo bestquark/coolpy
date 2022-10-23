@@ -1,0 +1,2 @@
+imageio==2.22.0
+stable_baselines3==1.6.0

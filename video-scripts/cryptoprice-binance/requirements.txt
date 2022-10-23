@@ -1,0 +1,4 @@
+binance==0.3
+mplfinance>=0.12.9
+pandas>=1.4.4
+
