@@ -1,6 +1,6 @@
 # `CoolPy`
 
-![coolpylogo](imgs/logo-border-black.svg)
+<img src="imgs/logo-border-black.svg" alt="coolpylogo" width="200"/>
 
 Welcome to the [CoolPy](https://www.tiktok.com/@pythonrepos) repository. Here, you can find the short scripts of all the scripts used in the channel. 
 
